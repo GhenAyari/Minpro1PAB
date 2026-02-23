@@ -1,3 +1,9 @@
+* *Nama: Ghendida Gantari Ayari*
+* *NIM: 2409116080*
+* *Sistem Informasi B2024*
+
+---
+
 <h1 align="center">Aplikasi Resep Masakan Sederhana</h1>
 
 <p align="center">
